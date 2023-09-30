@@ -3,12 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Network Enumeration (Netstat and Nmap)</b>
-  - [Replace link and this text when project is done](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Replace link and this text when project is done](https://github.com)
 - <b>Network Packet Sniffing (TCPdump and Wireshark)</b>
-  - [Replace link and this text when project is done](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Replace link and this text when project is done](https://github.com)
 - <b>Python</b>
-  - [Replit 100 Days of Code](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+  - [Replit 100 Days of Code](https://github.com)
 
 <h2> 🤳 Connect with me:</h2>
 
