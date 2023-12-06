@@ -1,15 +1,17 @@
 <h1>Hi, I'm Conner! <br/><a>Cybersecurity Student</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
+<!--
 - <b>Network Enumeration (Netstat and Nmap)</b>
   - [Replace link and this text when project is done](https://github.com)
 - <b>Network Packet Sniffing (TCPdump and Wireshark)</b>
   - [Replace link and this text when project is done](https://github.com)
+  -->
 - <b>Python</b>
-  - [Replit 100 Days of Code](https://github.com)
+  - [Random Password Generator](https://github.com/sudo-conner/password-generator.git)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="ConnerMaris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
