@@ -30,8 +30,8 @@ I'm a cybersecurity and IT student with hands-on experience in building, securin
 
 ## Featured Projects
 
-- **[Project Name](https://github.com/yourusername/project-name)**  
-  _One-line description of the project, what it does, and what tools were used._
+- **[Hosting a Static Site on AWS](https://github.com/sudo-conner/amplify-static-site)**  
+  *How I used AWS Amplify to Deploy my Static Website*
 
 - **[Another Project](https://github.com/yourusername/project-name)**  
   _A small sentence highlighting its purpose or cool factor._
