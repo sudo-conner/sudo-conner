@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Conner (⌐■_■)
 
-<!--
-**sudo-conner/sudo-conner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity and IT student with hands-on experience in building, securing, and documenting technical projects. This page is a directory for my write-ups and repositories.
 
-Here are some ideas to get you started:
+## I've Been Focusing on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Wireless Protocols & Hacking
+- Network Security & Traffic Analysis
+- System hardening & automation
+- Documentation & scripting (Bash, Python)
+
+## Right Now I Have
+
+- A.S. Cybersec @ MiraCosta
+- CompTIA Sec+, Net+, A+
+- Microsoft AZ-900
+- Axelos ITIL 4
+- ISC2 SSCP
+
+## Coming Soon
+
+- B.S. CSIA @ WGU
+- CompTIA Project+, Pentest+
+- ISC2 CCSP
+
+## Contact
+
+- [LinkedIn](https://linkedin.com/in/conner-maris)  
+- Email: mail@connermaris.com
+
+## Featured Projects
+
+- **[Project Name](https://github.com/yourusername/project-name)**  
+  _One-line description of the project, what it does, and what tools were used._
+
+- **[Another Project](https://github.com/yourusername/project-name)**  
+  _A small sentence highlighting its purpose or cool factor._
+
+  ## All Projects
+
+- **[Project Name](https://github.com/yourusername/project-name)**  
+  _One-line description of the project, what it does, and what tools were used._
+
+- **[Another Project](https://github.com/yourusername/project-name)**  
+  _A small sentence highlighting its purpose or cool factor._
+
+- **[Project Name](https://github.com/yourusername/project-name)**  
+  _One-line description of the project, what it does, and what tools were used._
+
+- **[Another Project](https://github.com/yourusername/project-name)**  
+  _A small sentence highlighting its purpose or cool factor._
