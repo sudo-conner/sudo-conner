@@ -2,26 +2,9 @@
 
 I'm a cybersecurity and IT student with hands-on experience in building, securing, and documenting technical projects. This page is a directory for my write-ups and repositories.
 
-## I've Been Focusing on
-
-- Wireless Protocols & Hacking
-- Network Security & Traffic Analysis
-- System hardening & automation
-- Documentation & scripting (Bash, Python)
-
-## Right Now I Have
-
-- A.S. Cybersec @ MiraCosta
-- CompTIA Sec+, Net+, A+
-- Microsoft AZ-900
-- Axelos ITIL 4
-- ISC2 SSCP
-
-## Coming Soon
-
-- B.S. CSIA @ WGU
-- CompTIA Project+, Pentest+
-- ISC2 CCSP
+| I've Been Focusing on | Right Now I Have | Coming Soon |
+|----------|----------|----------|
+| <ul><li>Wireless Protocols & Hacking</li><li>Network Security & Traffic Analysis</li><li>System hardening & automation</li><li>Documentation & scripting (Bash, Python)</li></ul> | <ul><li>A.S. Cybersec @ MiraCosta</li><li>CompTIA Sec+, Net+, A+</li><li>Microsoft AZ-900</li><li>Axelos ITIL 4</li><li>ISC2 SSCP</li></ul> | <ul><li>B.S. CSIA @ WGU</li><li>CompTIA Project+, Pentest+</li><li>ISC2 CCSP</li></ul> |
 
 ## Contact
 
