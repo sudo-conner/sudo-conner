@@ -9,20 +9,20 @@ I'm a cybersecurity and IT student with hands-on experience in building, securin
 ## Contact
 
 - [LinkedIn](https://linkedin.com/in/conner-maris)  
-<!-- Email: mail@connermaris.com -->
+<!-- [Email](example@example.com) -->
 
 ## Featured Projects
 
 - **[Hosting a Static Site on AWS](https://github.com/sudo-conner/amplify-static-site)**  
   *How I used AWS Amplify to Deploy my Static Website*
 
-- **[SSCP Notes](https://github.com/sudo-conner/sscp-notes)**  
-  *Notes I Took While Studying for (ISC)² SSCP*
+- **[Ghostty + Oh My ZSH!](https://github.com/sudo-conner/oh-my-ghostty)**  
+  *I Finally Upgraded my Terminal*
 
   ## All Projects
 
-- **[Project Name](https://github.com/yourusername/)**  
-  *That's All For Now*
+- **[SSCP Notes](https://github.com/sudo-conner/sscp-notes)**  
+  *Notes I Took While Studying for (ISC)² SSCP*
 
-- **[Another Project](https://github.com/yourusername/)**  
+- **[Another Project](https://github.com/sudo-conner/)**  
   *More Coming Soon*
