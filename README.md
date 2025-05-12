@@ -16,10 +16,13 @@ I'm a cybersecurity and IT student with hands-on experience in building, securin
 - **[Hosting a Static Site on AWS](https://github.com/sudo-conner/amplify-static-site)**  
   *How I used AWS Amplify to Deploy my Static Website*
 
-- **[Ghostty + Oh My ZSH!](https://github.com/sudo-conner/oh-my-ghostty)**  
-  *I Finally Upgraded my Terminal*
+- **[Pwnagotchi](https://github.com/sudo-conner/pwnagotchi)**  
+  *Cracking WPA2 PSK's with pwnagotchi*
 
   ## All Projects
+
+- **[Ghostty + Oh My ZSH!](https://github.com/sudo-conner/oh-my-ghostty)**  
+  *I Finally Upgraded my Terminal*
 
 - **[SSCP Notes](https://github.com/sudo-conner/sscp-notes)**  
   *Notes I Took While Studying for (ISC)² SSCP*
